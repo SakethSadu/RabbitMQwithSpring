@@ -7,6 +7,6 @@ A message queue is made up of a "**producer**", a "**broker**", and a "**consume
 
 A message queue provides an asynchronous communication between applications.
 
-<img src = "../ProducerConsumer.png" alt = "Producer-Consumer Image">
+<img src = "./ProducerConsumer.png" alt = "Producer-Consumer Image">
 
 
